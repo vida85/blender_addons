@@ -4,7 +4,7 @@ Blender 2.9 add-ons
 A basic city random generator that I'll be updating every so often.
 
 Blueprint City Generator
-https://gum.co/blueprint_city
+[https://gum.co/blueprint_city](https://vidazinho.gumroad.com/l/blueprint_pro)
 
 Blueprint is a sophisticated random generator for urban buildings. Now available @ www.gumroad.com
 
